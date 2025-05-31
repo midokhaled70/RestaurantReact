@@ -1,6 +1,4 @@
-Here’s a professional **README.md** file for your **RestaurantReact**:  
 
----
 
 # **RestApp – Modern Restaurant Website**  
 
@@ -56,12 +54,8 @@ RestApp/
 │── README.md  
 ```
 
-## **Contributing**  
-Contributions are welcome! Feel free to fork the repository, submit issues, or create pull requests.  
 
 ## **License**  
 This project is licensed under the **MIDO KHALED**.  
 
----
 
-Let me know if you’d like any modifications! 🚀
