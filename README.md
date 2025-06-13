@@ -66,6 +66,6 @@ RestApp/
 
 
 ## **License**  
-This project is licensed under the **MIDO KHALED**.  
+This project is licensed under the **Ahmed KHALED**.  
 
 
