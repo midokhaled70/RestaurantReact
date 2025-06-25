@@ -67,7 +67,7 @@ RestApp/
 ```
 
 ## Author
-**MIDO Khaled**
+**MIDo Khaled**
 ## **License**  
 This project is licensed under the **Ahmed KHALED**.  
 
