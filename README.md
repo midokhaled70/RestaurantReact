@@ -66,8 +66,7 @@ RestApp/
 │── README.md  
 ```
 
-## Author
-**Ahmed Khaled**
+
 ## **License**  
 This project is licensed under the **Ahmed KHALED**.  
 
