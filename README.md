@@ -51,7 +51,7 @@ Follow these steps to set up and run the project locally:
 ![2](https://github.com/user-attachments/assets/d4057b7d-3a58-47d0-b6a3-a47171940727)
 ![1](https://github.com/user-attachments/assets/fe477379-f154-441b-ba5f-6be193b44c03)
 ## **Author**
-**Ah**
+**Ahm**
 
 RestApp/
 │── public/           # Static assets  
